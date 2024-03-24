@@ -13,7 +13,7 @@ create database nexus;
 
 show databases;
 
--- working with and using the database is like as follows
+-- working with and using the database is like as follows once you get into the database then you can create tables
 
 use nexus;
 
